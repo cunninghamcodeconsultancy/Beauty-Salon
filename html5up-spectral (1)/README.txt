@@ -1,6 +1,4 @@
-Spectral by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+
 
 
 A big, modern, blocky affair with a mobile-style menu, fully responsive styling,
@@ -13,7 +11,7 @@ and an assortment of pre-styled elements. So, pretty much what you were expectin
   stopgaps (like CSS grid systems).
 
 - It uses Sass* a lot more intelligently, thanks in part to several new mixins
-  and functions I've been working on (as well as a few by @HugoGiraudel).
+  and functions I've been working on.
 
   (* = still entirely optional if you prefer vanilla CSS :)
 
